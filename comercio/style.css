@@ -1,0 +1,50 @@
+
+body {background-color:darkgoldenrod;}
+
+p { font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    text-align: justify;
+}
+
+.mapa {padding-left : 25%;
+       width: 50%;
+}
+
+#formulario {
+    width: 354px;
+    height: 128px;
+}
+
+#enviar{width: 100px;}
+
+h1 h2 h3 { font-family: 'Open Sans', sans-serif;}
+
+.nome_mapa { padding-left: 45%;}
+
+#tela {border-style: solid; 
+    width: 70%;
+    margin: auto;
+    background-color: darkcyan
+   
+}
+
+#informações {text-align: justify;
+        
+}
+
+#forms{text-align: center ;}
+
+#lista{
+    border-style: solid;
+    width: 17%;
+    margin-left: 41%;
+}
+
+#sumario {text-align: center;}
+
+h2 {text-align: center;}
+
+.comercio {
+    position: relative;
+    float: left;}
+#txt_shopping {float: left;}
